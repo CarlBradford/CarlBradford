@@ -1,6 +1,5 @@
 # 🙋‍♂️ About Myself
-<img width="1584" height="396" alt="banner-carldesagun" src="https://github.com/user-attachments/assets/270ead8e-a8be-48a0-a7c9-cd4e14cbe906" />
-
+<img width="1584" height="396" alt="banner-carldesagun" src="https://github.com/user-attachments/assets/76f635a5-a645-4fcd-aa66-d9a34da76d70" />
 
 <p align="center">
   <a href="#-about-me">🧭 About Me</a> | 
