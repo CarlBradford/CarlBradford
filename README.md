@@ -107,6 +107,42 @@ Currently, I’m building my professional portfolio around **Python, SQL, Power 
 
 ---
 
+# 🚀 Featured Projects
+
+## 📰 The AXIS — Web-Based Student Publication Platform with Integrated Data Analytics
+
+
+**Role:** Project Manager & Lead Developer
+
+A web-based student publication platform developed to streamline content publishing and provide analytics for monitoring publication performance.
+
+### Key Contributions
+
+* Directed project planning, task delegation, and team coordination throughout the development lifecycle.
+* Developed key system functionalities including a **content management system, feedback module, and database integration**.
+* Designed and implemented **interactive analytics dashboards** for monitoring content performance.
+* Supported data-driven decision-making for publication management.
+
+---
+
+## 📊 Data Analytics & Case Studies
+
+### 📂 Projects Overview
+
+| Category | Project Title | Project Type | Tools Used | Summary |
+| :--- | :--- | :--- | :--- | :--- |
+| **Case Studies** | [Converge](./case-studies/README.md#converge) | Strategic Case Study | Business Analytics, Data Governance | Evaluated data center interconnect optimization, network performance monitoring, and AI-driven fraud analytics. |
+| | [MoneyGram](./case-studies/README.md#moneygram) | Financial Case Study | Predictive & Prescriptive Analytics | Analyzed real-time transaction monitoring, behavioral analytics, and predictive risk scoring to reduce global payment fraud. |
+| | [Papa Gino's](./case-studies/README.md#papa-ginos) | Operational Case Study | Descriptive & Predictive Analytics | Examined automated dispatch, route optimization, and third-party driver integration to streamline peak delivery operations. |
+| **Excel** | [Amazon Transaction Analytics](./excel/README.md#amazon-transaction-analytics) | Data Analysis | MS Excel (Pivot Tables, VLOOKUP, DATE, Slicers) | Processed transaction records to evaluate monthly seasonal purchasing trends, order status fulfillment, and regional shipping costs. |
+| | [E-Commerce Performance Insights](./excel/README.md#e-commerce-performance-insights) | Dashboarding | MS Excel (Power Query, Pivot Charts) | Analyzed retail records across 17 attributes to track product category revenues, regional sales distributions, and discount impacts. |
+| **Looker Studio** | [Mobile Sales Dashboard](./data-studio/README.md#mobile-sales-dashboard) | Data Visualization | Data Studio | Designed interactive dashboards tracking in revenue across payment options, model demand, regional top performers, and age demographics. |
+| **SQL & Power BI** | [POPCRT Analytics Suite](./sql-powerbi/README.md#popcrt-analytics-suite) | Business Intelligence | SQL, Power BI, DAX | Executed SQL queries and built DAX measures to evaluate click-through rates, regional user reach, and campaign revenues. |
+| | [Publication Data Pipeline](./sql-powerbi/README.md#publication-data-pipeline) | Database Management | PostgreSQL, Chart.js, CMS Modeling | Developed a normalized PostgreSQL database, structured article workflow CMS, and descriptive analytics dashboard with an automated Insight Engine. |
+| **Python** | [Python Analysis Notebooks](./python/README.md#python-analysis-notebooks) | Exploratory Analysis | Python, Google Colab | Cleaning, transforming, and extracting statistical insights from complex unstructured datasets. |
+
+---
+
 # 💼 Experience
 
 ## IT Intern — SATO Den Technologies Corporation
