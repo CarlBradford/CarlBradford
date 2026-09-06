@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/←_Back_to_Main_Portfolio-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="Back to Main Portfolio" />
 </a>
 
-<a id="mobile-sales-analysis"></a>
+<a id="mobile-sales-dashboard"></a>
 # 📱 Mobile Sales Performance & Demographics Analysis
 
 <p align="left">
