@@ -6,7 +6,7 @@
 
 ---
 
-<a id="amazon-transaction-analysis"></a>
+<a id="amazon-transaction-analytics"></a>
 ## 📦 Amazon Transaction Analysis
 
 <p align="left">
@@ -43,7 +43,7 @@
 
 ---
 
-<a id="e-commerce-sales-analysis"></a>
+<a id="e-commerce-performance-insights"></a>
 ## 🌐 Empowering E-Commerce Growth: Global Sales & Consumer Trends
 
 <p align="left">
