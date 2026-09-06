@@ -6,7 +6,7 @@
 
 ---
 
-<a id="popcrt-campaign-analysis"></a>
+<a id="popcrt-analytics-suite"></a>
 ## 📣 PopCrt Digital Marketing Campaign Analysis
 
 <p align="left">
@@ -43,7 +43,7 @@
 
 ---
 
-<a id="axis-publication-platform"></a>
+<a id="publication-data-pipeline"></a>
 ## 📰 The AXIS Student Publication Platform & Analytics
 
 <p align="left">
